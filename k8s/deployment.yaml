@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: website
-          image: ghcr.io/berrouyne/website-app:107918d
+          image: ghcr.io/berrouyne/website-app:774dd16
           ports:
             - containerPort: 80
